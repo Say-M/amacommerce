@@ -20,7 +20,7 @@ export default function Footer() {
                             <h3 className="hover:underline me-4 md:me-6">Email:iiuccsestudent@gmail.com</h3>
                         </li>
                         <li>
-                            <a href="https://www.bigcommerce.com/articles/ecommerce/privacy-policy/" className="hover:underline me-4 md:me-6">Privacy Policy</a>
+                            <a href="https:Dcommerce.com/articles/ecommerce/privacy-policy/" className="hover:underline me-4 md:me-6">Privacy Policy</a>
                         </li>
                         
                     

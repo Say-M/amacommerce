@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import Title from '../../ui/title';
 
 export default function BestSelling() {
@@ -5,7 +6,7 @@ export default function BestSelling() {
     <section className='container mx-auto py-4'>
       <Title>Best Selling</Title>
       <div className='grid grid-cols-4 gap-6'>
-        <div>
+        <Link to="/product">
           <img
             src='https://m.media-amazon.com/images/I/913C+MR3S5L._AC_SY200_.jpg'
             alt='Image'
@@ -15,7 +16,7 @@ export default function BestSelling() {
           <small>
             <strong>Price : </strong> $420
           </small>
-        </div>
+        </Link>
         <div>
           <img
             src='https://m.media-amazon.com/images/I/913C+MR3S5L._AC_SY200_.jpg'
