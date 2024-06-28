@@ -12,7 +12,9 @@ export default function Footer() {
                 
                     </span>
                     <span className="text-lg text-gray-500 sm:text-center dark:text-gray-400">
-                    Developed by Abdulla Mohammad Sayem,Faisal Fardin,Parba Das Gupta
+                    <h3 h3 className="hover:text-black font-bold">Developed by Abdulla Mohammad Sayem,</h3>
+                    <h3 h3 className="hover:text-black font-bold">Faisal Fardin,</h3>
+                    <h3 h3 className="hover:text-black font-bold">Parba Das Gupta</h3> 
                     </span>
                     <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
                         <li>
