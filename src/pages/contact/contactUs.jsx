@@ -56,7 +56,7 @@ export default function ContactPage() {
           </div>
           <button
             type='submit'
-            className='py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-slate-900 sm:w-fit hover:bg-slate-700 focus:ring-4 focus:outline-none focus:ring-slate-300 dark:bg-slate-600 dark:hover:bg-slate-700 dark:focus:ring-slate-800'
+            className='py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-slate-900 sm:w-fit hover:bg-slate-700 focus:ring-4 focus:outline-none focus:ring-slate-300'
           >
             Send message
           </button>
