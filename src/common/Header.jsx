@@ -2,8 +2,8 @@ import { Link } from 'react-router-dom';
 
 export default function Header() {
   return (
-    <div className='bg-slate-900 text-white'>
-      <header className='container mx-auto py-2 flex justify-between items-center'>
+    <div className='bg-slate-900 text-white sticky top-0'>
+      <header className='container mx-auto py-4 flex justify-between items-center'>
         <Link to='/'>
           <h1 className='text-4xl font-bold'>AmaCommerce</h1>
         </Link>
